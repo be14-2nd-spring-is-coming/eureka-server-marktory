@@ -1,4 +1,3 @@
-cd eureka-server
 #./gradlew build --refresh-dependencies
 ./gradlew build -x test
 cd build/libs
